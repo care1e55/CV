@@ -1,1 +1,16 @@
-.ipynb_checkpoints
+*.h5
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+.Rhistory
+.DS_Store
+*.ipynb_checkpoints
+nda/
+secret_token.txt
