@@ -10,3 +10,5 @@ Sample u-net segmentation project on rosneft challlenge data https://boosters.pr
 ## [homework]simpsons_classification.ipynb 
 Simpsons classification using finetuned ResNet. Kaggle competition: https://www.kaggle.com/c/simpsons4/overview
 
+## [homework]Tiny_imagenet.ipynb 
+Tinyimagenet classification using finetuned ResNet
