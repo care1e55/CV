@@ -20,4 +20,4 @@ RANSAC for sklearn line model with noisy test line generation
 OTSU bootleg from skimage I guess
 
 ## hough.py
-Ordinary hough transform (a little bootleg too)
+Ordinary hough transform
