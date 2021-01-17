@@ -1,14 +1,23 @@
 # CV
-Jupyter ноутбуки с выполнеными заданиями по компьтерному зрению курсов МФТИ ФПМИ и НИУ ВШЭ ФКН
+Jupyter-notebooks with homework solutions from MIPT and HSE courses
 
-## [homework]CannyFilter.ipynb 
-Релизация алгоритма Canny по выделению границ, включающая в себя фильтр Гаусса, расчет градиентов, non-maximum suppression и edge linking
+## CannyFilter.ipynb 
+Canny filter for edge detectionincluding Gauss filter, gradients, non-maximum suppression and edge linking with bfs
 
-## [homework]Unet.ipynb
+## Unet.ipynb
 Sample u-net segmentation project on rosneft challlenge data https://boosters.pro/championship/seismic_challenge/overview
 
-## [homework]simpsons_classification.ipynb 
+## Simpsons_classification.ipynb 
 Simpsons classification using finetuned ResNet. Kaggle competition: https://www.kaggle.com/c/simpsons4/overview
 
-## [homework]Tiny_imagenet.ipynb 
-Tinyimagenet classification using finetuned ResNet
+## box_filter.py
+O(n) box filter from http://blog.ivank.net/fastest-gaussian-blur.html
+
+## ransac.py
+RANSAC for sklearn line model with noisy test line generation
+
+## Ootsu.py
+OTSU bootleg from skimage I guess
+
+## hough.py
+Ordinary hough transform (a little bootleg too)
