@@ -2,7 +2,7 @@
 Jupyter-notebooks with homework solutions from MIPT and HSE courses
 
 ## CannyFilter.ipynb 
-Canny filter for edge detectionincluding Gauss filter, gradients, non-maximum suppression and edge linking with bfs
+Canny filter for edge detection including Gauss filter, gradients, non-maximum suppression and edge linking with bfs
 
 ## Unet.ipynb
 Sample u-net segmentation project on rosneft challlenge data https://boosters.pro/championship/seismic_challenge/overview
@@ -16,7 +16,7 @@ O(n) box filter from http://blog.ivank.net/fastest-gaussian-blur.html
 ## ransac.py
 RANSAC for sklearn line model with noisy test line generation
 
-## Ootsu.py
+## otsu.py
 OTSU bootleg from skimage I guess
 
 ## hough.py
